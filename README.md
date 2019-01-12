@@ -1,0 +1,2 @@
+# StudentsAutoDetainedLettersPDF
+it organises a database in which all the details of students is kept..and some options are given for editing and delete ,adding students into the database and most important of all they all are provided with a select check box those student who are selected and submited for pdf formation then it provides a proper letters for all those selected students with their details autofilled .
